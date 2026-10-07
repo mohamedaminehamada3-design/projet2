@@ -52,7 +52,7 @@ nav a:hover {
     font-size: 18px;
 }
 
-.hero-image img {
+.imgh img {
     width: 400px;
     max-width: 100%;
     border-radius: 10px;
@@ -73,7 +73,7 @@ nav a:hover {
     background-color: #007c91;
 }
 
-.btn-outline {
+.btn-o {
     border: 2px solid #00a8c6;
     color: #00a8c6;
     padding: 10px 20px;
@@ -89,7 +89,7 @@ nav a:hover {
     text-align: center;
 }
 
-.section-title span {
+.se span {
     color: #00a8c6;
 }
 
@@ -100,18 +100,18 @@ nav a:hover {
     align-items: center;
 }
 
-.about-image,
-.about-text {
+.abouti,
+.aboutt {
     width: 50%;
 }
 
-.about-image img {
+.abouti img {
     width: 100%;
     border-radius: 10px;
 }
 
 
-.projects-section {
+.psps{
     background-color: white;
 }
 
@@ -135,7 +135,7 @@ nav a:hover {
     border-radius: 10px 10px 0 0;
 }
 
-.c-content {
+.c-c {
     padding: 15px;
 
 
@@ -176,23 +176,23 @@ footer {
     padding: 30px;
 }
 
-.footer-content {
+.fc {
     display: flex;
     justify-content: space-around;
 }
 
-.footer-content h3 {
+.fc h3 {
     color: #00bcd4;
 }
 
-.footer-content a {
+.fc a {
     display: block;
     color: white;
     text-decoration: none;
     margin: 5px;
 }
 
-.copyright {
+.co {
     text-align: center;
     border-top: 1px solid gray;
     margin-top: 20px;
